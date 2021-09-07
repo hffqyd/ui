@@ -1,5 +1,7 @@
 # UI
 
+This was forked from [nim-lang/ui](https://github.com/nim-lang/ui) and added some modifications.
+
 This package wraps the [libui](https://github.com/andlabs/libui) C library. It
 also provides a high-level Nim binding for it.
 
